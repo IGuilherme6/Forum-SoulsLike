@@ -1,0 +1,18 @@
+{
+    "name": "laboratorio/webp2",
+    "require-dev": {
+        "phpunit/phpunit": "^11.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "Laboratorio\\Webp2\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "IGuilherme6",
+            "email": "guilhermecostagodoi@gamil.com"
+        }
+    ],
+    "require": {}
+}
