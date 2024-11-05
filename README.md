@@ -20,6 +20,5 @@ banco de dados: MySQL
 
 # Diagrama
 
-![diagrama web1](Forum\diagrama\diagrama web1.png)
-
+![diagrama web1](Forum/diagrama/diagrama-web1.png)
 
