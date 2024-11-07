@@ -8,6 +8,7 @@ class ComposerStaticInitbf04778b2a57de7cb71170f2bd00ce77
 {
     public static $files = array (
         '6124b4c8570aa390c21fafd04a26c69f' => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy/deep_copy.php',
+        '253c157292f75eb38082b5acb06f3f01' => __DIR__ . '/..' . '/nikic/fast-route/src/functions.php',
         'ec07570ca5a812141189b1fa81503674' => __DIR__ . '/..' . '/phpunit/phpunit/src/Framework/Assert/Functions.php',
     );
 
@@ -19,6 +20,10 @@ class ComposerStaticInitbf04778b2a57de7cb71170f2bd00ce77
         'L' => 
         array (
             'Laboratorio\\Webp2\\' => 18,
+        ),
+        'F' => 
+        array (
+            'FastRoute\\' => 10,
         ),
         'D' => 
         array (
@@ -34,6 +39,10 @@ class ComposerStaticInitbf04778b2a57de7cb71170f2bd00ce77
         'Laboratorio\\Webp2\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
+        ),
+        'FastRoute\\' => 
+        array (
+            0 => __DIR__ . '/..' . '/nikic/fast-route/src',
         ),
         'DeepCopy\\' => 
         array (

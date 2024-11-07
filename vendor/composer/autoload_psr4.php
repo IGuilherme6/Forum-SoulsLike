@@ -8,5 +8,6 @@ $baseDir = dirname($vendorDir);
 return array(
     'PhpParser\\' => array($vendorDir . '/nikic/php-parser/lib/PhpParser'),
     'Laboratorio\\Webp2\\' => array($baseDir . '/src'),
+    'FastRoute\\' => array($vendorDir . '/nikic/fast-route/src'),
     'DeepCopy\\' => array($vendorDir . '/myclabs/deep-copy/src/DeepCopy'),
 );

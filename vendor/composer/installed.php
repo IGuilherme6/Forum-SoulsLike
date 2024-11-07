@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
         'name' => 'laboratorio/webp2',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => null,
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'daf79c0d938ade14694a3c6b44463573f6ff2e40',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -11,9 +11,9 @@
     ),
     'versions' => array(
         'laboratorio/webp2' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => null,
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'daf79c0d938ade14694a3c6b44463573f6ff2e40',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
@@ -27,6 +27,15 @@
             'install_path' => __DIR__ . '/../myclabs/deep-copy',
             'aliases' => array(),
             'dev_requirement' => true,
+        ),
+        'nikic/fast-route' => array(
+            'pretty_version' => 'v1.3.0',
+            'version' => '1.3.0.0',
+            'reference' => '181d480e08d9476e61381e04a71b34dc0432e812',
+            'type' => 'library',
+            'install_path' => __DIR__ . '/../nikic/fast-route',
+            'aliases' => array(),
+            'dev_requirement' => false,
         ),
         'nikic/php-parser' => array(
             'pretty_version' => 'v5.3.1',
